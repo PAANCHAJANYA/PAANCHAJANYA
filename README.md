@@ -37,7 +37,7 @@ Ethereum
 <br/>
 <img src="https://img.shields.io/badge/-Augmented%20Reality-3C873A"><img src="https://img.shields.io/badge/-SparkAR-e535ab?style=flat&logo=spark-ar&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Alexa%20Skills%20Kit-007ACC?style=flat&logo=amazon-alexa&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/-LaTeX-787878?style=flat&logo=latex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Microsoft%20Office-1572B6?style=flat&logo=microsoft-office&logoColor=white"><img src="http://img.shields.io/badge/-MATLAB-430098">
+<img src="https://img.shields.io/badge/-LaTeX-787878?style=flat&logo=latex&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Microsoft%20Office-1572B6?style=flat&logo=microsoft-office&logoColor=white"> <img src="http://img.shields.io/badge/-MATLAB-430098">
 <br/>
 <img src="http://img.shields.io/badge/-Blockchain-black?style=flat"><img src="http://img.shields.io/badge/-Ethereum-black?style=flat&logo=ethereum&logoColor=white">
 
