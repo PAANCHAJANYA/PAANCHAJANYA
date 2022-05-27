@@ -46,8 +46,7 @@ I am a Full-stack Web Developer and Cloud Engineer who has interest in various f
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PAANCHAJANYA&show_icons=true&hide_border=true&theme=dracula)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PAANCHAJANYA&theme=dracula&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PAANCHAJANYA&show_icons=true&hide_border=true&theme=dracula) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PAANCHAJANYA&hide_border=true&theme=dracula&layout=compact)
 
 ---
 
