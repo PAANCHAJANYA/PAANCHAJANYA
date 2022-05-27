@@ -44,7 +44,7 @@ Ethereum
 ### Languages and their libraries I know
 
 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/-GeoPandas-black?style=flat&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/-Matplotlib-black"><img src="https://img.shields.io/badge/-Tkinter-black"><img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/-GeoPandas-black?style=flat&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/-Matplotlib-black/"><img src="https://img.shields.io/badge/-Tkinter-black/"><img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 <br/>
