@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PAANCHAJANYA/PAANCHAJANYA/main/Header.png" width="100%" title="Intro Card" alt="Intro Card"/>
-</p>
-
 I am a Full-stack Web Developer and Cloud Engineer who has interest in various facets of tech from Programming to Augmented Reality and Blockchain. I am continuosly upgrading my skill set in computer science hand-in-hand reaching the pinnacle in academics to ideate and design a tool that has socio-economic relevance.
  
  🔭 I’m planning for a Project **Immerse** where we can initiate 3D online meetings for the main purpose of organizing online classes for students of any grade which shall hopefully induce deeper involvement of the student in the class when compared to a usual 2D online class meet.
@@ -50,14 +46,15 @@ I am a Full-stack Web Developer and Cloud Engineer who has interest in various f
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PAANCHAJANYA&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PAANCHAJANYA&show_icons=true&hide_border=true&theme=dracula)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PAANCHAJANYA&theme=dracula&layout=compact)
 
 ---
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Paanchajanya | Twitter" width="22px" style="color:white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Paanchajanya | LinkedIn" width="22px" style="color:white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Paanchajanya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Paanchajanya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
