@@ -23,11 +23,6 @@ I am a Full-stack Web Developer and Cloud Engineer who has interest in various f
 
 ### Tech & Tools Preference
 
-Augmented Reality
-SparkAR
-Alexa Skills Kit (ASK)
-LaTeX
-Microsoft Office
 MATLAB
 Blockchain
 Ethereum
@@ -39,22 +34,17 @@ Ethereum
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat&logo=microsoft-azure&logoColor=white"><img src="https://img.shields.io/badge/-AWS-orange?style=flat&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <br/>
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/-Augmented%20Reality-3C873A"><img src="https://img.shields.io/badge/-SparkAR-e535ab?style=flat&logo=spark-ar&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Alexa%20Skills%20Kit-007ACC?style=flat&logo=amazon-alexa&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/-LaTeX-787878?style=flat&logo=latex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Microsoft%20Office-1572B6?style=flat&logo=microsoft-office&logoColor=white"><img src="http://img.shields.io/badge/-MATLAB-430098">
+<br/>
+<img src="http://img.shields.io/badge/-Blockchain-black?style=flat"><img src="http://img.shields.io/badge/-Ethereum-black?style=flat&logo=ethereum&logoColor=white">
 
 ### Languages and their libraries I know
 
 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/-GeoPandas-black?style=flat&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/-Matplotlib-black?style=flat"><img src="https://img.shields.io/badge/-Tkinter-black?style=flat"><img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/-GeoPandas-black?style=flat&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/-Matplotlib-black"><img src="https://img.shields.io/badge/-Tkinter-black"><img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 <br/>
