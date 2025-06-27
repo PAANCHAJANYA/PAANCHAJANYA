@@ -11,7 +11,7 @@ I am a Full-stack Web Developer and Cloud Engineer who has interest in various f
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/PAANCHAJANYA)  <img src="https://img.shields.io/github/followers/PAANCHAJANYA?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://img.shields.io/github/followers/PAANCHAJANYA?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
